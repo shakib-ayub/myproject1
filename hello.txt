@@ -1,1 +1,2 @@
 install git and setup connect to git buh account
+this is the second commit from myside
